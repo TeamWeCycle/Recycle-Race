@@ -1,0 +1,279 @@
+ti{
+    font-size: 50px;
+    color: seagreen;
+    font-weight: bold;
+}
+
+.shot{
+    border-radius: 10%;
+}
+text{
+    text-align: center;
+    font-size: 25px;
+    color: limegreen;
+    font-weight: 100;
+    margin-left: 10%;
+    font-family: monospace
+}
+.alert{
+    text-decoration: underline;
+}
+c{margin-left: 35%;}
+
+.home{
+    display: flex;
+    border-color: grey;
+    border-width: thick;
+    border-top-style: groove;
+    background-color: whitesmoke;
+}
+.game{
+    display: flex;
+    border-color: grey;
+    border-width: thick;
+    border-top-style: groove;
+    background-color: aliceblue;
+}
+.quiz{
+    display: flex;
+    border-color: grey;
+    border-width: thick;
+    border-top-style: groove;
+    background-color: lightcyan;
+}
+.action{
+    display: flex;
+    border-color: grey;
+    border-width: thick;
+    border-top-style: groove;
+    background-color: lightgoldenrodyellow;
+}
+.screenshot{
+    width: 450px;
+    padding: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.img{
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+}
+ul{
+    list-style: none;
+}
+.a{
+    text-decoration: none;
+    color: currentColor;
+}
+
+.johanna{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: darkseagreen;
+    float: left;
+    margin-left: 60px;
+}
+
+.aboutjohanna {
+    font-family: monospace;
+    text-align: right;
+    font-size: 20px;
+    color: darkseagreen;
+    margin-left: 200px;
+    padding-top: 3px;
+}
+
+.annika{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: darkseagreen;
+    margin-left: 60px;
+    float: left;
+}
+    
+.aboutannika {
+    font-family: monospace;
+    text-align: right;
+    font-size: 20px;
+    color: darkseagreen;
+    padding-top: 3px;
+    margin-left: 200px;
+}
+
+.anaya{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: darkseagreen;
+    margin-left: 60px;
+    float: left;
+}
+    
+.aboutanaya {
+    font-family: monospace;
+    text-align: right;
+    font-size: 20px;
+    color: darkseagreen;
+    padding-top: 3px;
+    margin-left: 200px;
+}
+
+.us {
+    margin-top: 60px;
+    position: relative;
+}
+
+.aboutus {
+    margin-left: 15px;
+}
+
+.aboutustitle {
+    color: darkseagreen;
+    font-family: monospace;
+    font-size: 45px;
+    margin-top: 30px;
+}
+
+.separator {
+    color: white;
+    font-size: 30px;
+}
+
+.titleseparator {
+    color: white;
+    font-size: 40px;
+}
+
+.titles{
+    color: darkseagreen;
+    font-family: monospace;
+    font-size: 45px;
+    margin-left: 20px;
+}
+
+.coderkidsimg {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.infos {
+    text-align: right;
+    font-family: monospace;
+    font-size: 20px;
+    color: darkseagreen;
+    margin-left: 60px;
+    float: left;
+}
+
+.emailnames {
+    color: darkseagreen;
+    font-family: monospace;
+    font-size: 25px;
+    margin-left: 35px;
+}
+
+.emails {
+    color: forestgreen;
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 55px;
+}
+
+.coderkidss {
+    padding-bottom: 2px;
+}
+
+.johannaa {
+    padding-bottom: 2px;
+}
+
+.annikaa {
+    padding-bottom: 2px;
+}
+
+.usimg {
+    width: 100%;
+    height: 1%;
+    opacity: 1
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 250px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 90.5%;
+    height: 145px;
+    line-height: 30px; 
+    background-color: #f5f5f5;
+    color: white;
+    background-color: rgb(82, 127, 109);
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+    padding-top: 23px;
+}
+
+.footerweb {
+    color:white;
+    text-decoration: none;
+}
+
+.footerweb:hover {
+    color: lightgray;
+}
+
+.eemail {
+    text-decoration: none;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px; 
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: monospace;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: monospace;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+    font-family: monospace;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+    font-family: monospace;
+    color: darkseagreen;
+}
+
+body {
+    padding-right: 40px;
+    padding-left: 40px;
+}

@@ -1,0 +1,42 @@
+.titlenavbar{
+    background-color: darkseagreen;
+}
+.ulnavbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkseagreen;
+}
+.navbar{
+    float: left;
+    display: block;
+    width: 100px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.navbar:hover{
+    background-color: mediumseagreen;
+}
+.navbar_active{
+    float: left;
+    display: block;
+    width: 100px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+    background-color: seagreen;
+}
+
+ul{
+    list-style: none;
+}
+.a{
+    text-decoration: none;
+    color: currentColor;
+}
